@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Each and every horse that races has an opportunity to cash out for many betters."
+    "text": "Each and every horse that races has an opportunity to cash out for many betters.\n\nlibrary(tidyverse)"
   },
   {
     "objectID": "index.html",
