@@ -1,22 +1,22 @@
 [
   {
-    "objectID": "posts/husker-volleyball-sweeps-wisconsin/index.html",
-    "href": "posts/husker-volleyball-sweeps-wisconsin/index.html",
-    "title": "Do Betting Favorites Win in the Long Run",
+    "objectID": "posts/Big-East-Scoring/index.html",
+    "href": "posts/Big-East-Scoring/index.html",
+    "title": "Does Balanced Scoring Lead to Success in the Big East?",
     "section": "",
-    "text": "This is where to begin writing the post!\n\n\nCode\nlibrary(tidyverse)\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors"
+    "text": "Introduction: The Big East is regarded as one of the the most competitive conferences in all of college basketball. Major powerhouses like UCONN and Villanova have won the NCAA tournament in 4 of the last 8 years. One question that often arises within the conference is whether the teams with balanced scoring, tend to perform better than teams relying on one or two star athletes. The correlation between scoring balance and success within the Big East is something we can determine, with a focus on how many players score in double figures and its impact on win percentage.\n\n\nCode\nlibrary(tidyverse)\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Each and every horse that races has an opportunity to cash out for many betters.\n\nlibrary(tidyverse)"
+    "text": "Hello! Ny name is Jack Beelman and I am a senior at the University of Nebraska-Lincoln and I am majoring in sports media and communications. Welcome to my blog! I enjoy all sports across the board, I am most passionate about English Premier League Soccer, College Basketball and the NFL. Thank you so much for being here!\n\nlibrary(tidyverse)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "JacksSportsBlog",
+    "title": "Jack Beelman’s Collected Chaos",
     "section": "",
     "text": "Does Balanced Scoring Lead to Success in the Big East?\n\n\n\n\n\n\nFavorites\n\n\nUnderdogs\n\n\nSuprises\n\n\n\n\n\n\n\n\n\nNov 17, 2024\n\n\nJack Beelman\n\n\n\n\n\n\nNo matching items"
   }
